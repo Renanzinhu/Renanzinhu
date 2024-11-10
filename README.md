@@ -8,6 +8,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <a href="https://www.linkedin.com/in/renan-r-resende/">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,000000,434343,bdbdbd,000000&theme=shadow_red"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,bdbdbd,434343,000000&theme=shadow_red"/>
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
 </a>
