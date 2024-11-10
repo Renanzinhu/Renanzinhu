@@ -18,14 +18,13 @@
 <!-- ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-05122A?style=flat&logo=adobeaftereffects&labelColor=05122A)&nbsp; -->
 <!-- ![Static Badge](https://img.shields.io/badge/Krita-05122A?style=flat&logo=krita&labelColor=05122A)&nbsp; -->
 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)
-<br/>
-
-## GitHub Stats :
+## GitHub Stats:
 
 <a href="https://www.linkedin.com/in/renan-r-resende/">
     <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
 </a>
+    
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/>
