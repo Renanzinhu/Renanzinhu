@@ -25,8 +25,6 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
 </a>
     
-### Now Playing 🎧
+<!-- ### Now Playing 🎧 -->
 
-<!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/> -->
-
-[![Spotify](https://novatorem-git-main-renanzinhus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)
+<!--[![Spotify](https://novatorem-git-main-renanzinhus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/> -->
