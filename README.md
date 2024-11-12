@@ -24,7 +24,25 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
 </a>
-    
+
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/amankrx/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+  	<a href="https://gitlab.gnome.org/amankrx/">
+		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+	</a>
+	<a href="mailto:amankr1619@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+	<a href="http://discordapp.com/users/627273341337862154">
+		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+	</a>
+</p>
+
+
+
 ### Now Playing 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/>
