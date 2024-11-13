@@ -26,18 +26,17 @@
 </a>
 
 
+ 
+ 
+ 
 <p align="center">
-	<a href="https://www.linkedin.com/in/amankrx/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="mailto:amankr1619@gmail.com">
+	<a href="">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-	<a href="http://discordapp.com/users/627273341337862154">
+	<a href="http://discordapp.com/users/285194406133366784">
 		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
 </p>
-
 
 
 <!-- ### Now Playing 🎧 -->
