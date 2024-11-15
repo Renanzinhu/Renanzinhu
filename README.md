@@ -1,5 +1,10 @@
 # About Me:
 
+🎓 Education: Systems Analysis and Development (Impacta), with a focus on Full Stack development and knowledge in data analysis, software engineering, and test automation.
+
+💼 Experience: Currently working on the BI training team at Mercado Livre, improving skills in data analysis, Business Intelligence, communication, and advanced spreadsheets.
+
+🌟 Fun Fact: I have 2 years of experience in video editing.
 
 ## Languages and Technologies ⌨️
 
