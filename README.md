@@ -1,4 +1,4 @@
-# ✍️👤📚About Me:
+# ✍️ About Me:
 
 🎓 Education: Systems Analysis and Development (Impacta), with a focus on Full Stack development and knowledge in data analysis, software engineering, and test automation.
 
@@ -6,7 +6,7 @@
 
 🌟 Fun Fact: I have 2 years of experience in video editing.
 
-## ⌨️💻 Languages and Technologies:  
+## 💻 Languages and Technologies:  
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,7 +40,7 @@
 </a>
 
 
- ### 🌐📱 Social:
+ ### 🌐 Social:
 
 <p align="center">
 	<a href="">
