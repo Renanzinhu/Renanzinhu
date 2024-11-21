@@ -1,4 +1,4 @@
-# About Me:
+# ✍️👤📚About Me:
 
 🎓 Education: Systems Analysis and Development (Impacta), with a focus on Full Stack development and knowledge in data analysis, software engineering, and test automation.
 
@@ -6,7 +6,7 @@
 
 🌟 Fun Fact: I have 2 years of experience in video editing.
 
-## Languages and Technologies ⌨️
+## ⌨️💻 Languages and Technologies:  
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -32,7 +32,7 @@
 <!-- ![Static Badge](https://img.shields.io/badge/Krita-05122A?style=flat&logo=krita&labelColor=05122A)&nbsp; -->
 <!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a>  -->
 
-## GitHub Stats:
+## 📊 GitHub Stats: 
 
 <a href="https://www.linkedin.com/in/renan-r-resende/">
     <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
@@ -40,7 +40,7 @@
 </a>
 
 
- ### Social
+ ### 🌐📱 Social:
 
 <p align="center">
 	<a href="">
