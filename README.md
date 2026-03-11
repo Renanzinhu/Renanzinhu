@@ -1,13 +1,10 @@
 # ✍️ About Me:
 
-<!-- 🎓 Education: Systems Analysis and Development (Impacta), with a focus on Full Stack development and knowledge in data analysis, software engineering, and test automation. -->
 🎓 Systems Analysis and Development graduate (Impacta)
 
 💻 Data Developer interested in Data Analysis, Data Engineering, and Data Science.
 
-<!-- 💼 Experience: Currently working on the BI training team at Mercado Livre, improving skills in data analysis, Business Intelligence, communication, and advanced spreadsheets, while also focusing on learning Google Script and mastering SQL in BigQuery. -->
-
-💼 Experience working with SQL, Python, dashboards, and data analysis, with a strong interest in automation and data-driven solutions.
+💼 Experience with SQL, Python, dashboards, and data analysis, with a strong interest in automation and data-driven solutions. Previously worked at Mercado Livre and Samsung SDS gaining experience in operations and data analysis.
 
 🧠 Always learning new technologies related to data, software development, and analytics.
 
