@@ -10,6 +10,8 @@
 
 🌟 Fun Fact: I also have 2 years of experience with video editing and subtitles.
 
+<br>
+
 ## 💻 Languages and Technologies:  
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -39,25 +41,24 @@
 
 ## 📊 GitHub Stats: 
 
-<a href="https://www.linkedin.com/in/renan-r-resende/">
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
-</a>
-
-
- ### 🌐 Social:
-
 <p align="center">
-	<a href="">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-	<a href="http://discordapp.com/users/285194406133366784">
-		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-	</a>
+<img height="150px" style="vertical-align:middle;" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&border=true&border_color=610015&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=0,0d1117,101418,161b22&title_color=850303&icon_color=610015&text_color=c9d1d9"/>
+
+<img height="150px" style="vertical-align:middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&border=true&border_color=610015&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&bg_color=0,0d1117,101418,161b22&title_color=850303&icon_color=610015&text_color=c9d1d9"/>
 </p>
 
+<br><br>
 
-## 🎧 Listening on Spotify
+ ## 🌐 Social:
+
+<p align="center">
+<a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="http://discordapp.com/users/285194406133366784"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+<br>
+
+## 🎧 Spotify
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)
 
@@ -72,38 +73,9 @@
 <!--[![Spotify](https://novatorem-git-main-renanzinhus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/> -->
 
 
----
-
 ## 🎧 Spotify
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/)
-
-
----
-
-## 🌐 Social
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
-
-
-## stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight"/>
-</p>
-
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight&hide_title=true
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight&hide_title=true&hide_border=true"/>
-</p>
 
 
 ![](https://komarev.com/ghpvc/?username=renanzinhu&color=blue)
