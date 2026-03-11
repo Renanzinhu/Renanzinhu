@@ -52,7 +52,7 @@
  ## 🌐 Social:
 
 <p align="center">
-<a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:seuemail@email.com?subject=Contato%20via%20GitHub"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="http://discordapp.com/users/285194406133366784"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
