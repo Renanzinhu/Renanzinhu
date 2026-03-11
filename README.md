@@ -11,7 +11,7 @@
 
 🧠 Always learning new technologies related to data, software development, and analytics.
 
-🌟 Fun Fact: I have 2 years of experience in video editing.
+🌟 Fun Fact: I also have 2 years of experience with video editing and subtitles.
 
 ## 💻 Languages and Technologies:  
 
@@ -27,34 +27,6 @@
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-05122A?style=flat&logo=adobepremierepro&labelColor=05122A)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva&labelColor=05122A)&nbsp;
 ![Aseprite](https://img.shields.io/badge/Aseprite-05122A?style=flat&logo=aseprite&labelColor=05122A)&nbsp;
-
-
-## 💻 Tech Stack (test)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## ✍️ About Me
-
-🎓 Systems Analysis and Development graduate (Impacta)
-
-📊 Working in the BI Training Team at Mercado Livre, building dashboards and databases while improving skills in data analysis and automation.
-
-💻 Interested in Data Development, Python, SQL, Google Apps Script, and Web technologies.
-
-🎬 Fun fact: I have experience with video editing and subtitles.
 
 
 <!-- <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -74,25 +46,6 @@
     <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Renanzinhu&hide_title=true&border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renanzinhu&hide=html&hide_title=true&border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&bg_color=0,000000,434343,bdbdbd&theme=shadow_red"/>
 </a>
-
-
-## 📊 GitHub Stats (test)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
-
-
-## 📊 GitHub Stats (test2)
-
-| | |
-|---|---|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight) |
-
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
  ### 🌐 Social:
@@ -122,25 +75,12 @@
 <!--[![Spotify](https://novatorem-git-main-renanzinhus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/> -->
 
 
-
-
-## 📊 GitHub Stats
-
-| | |
-|---|---|
-| ![stats](https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight) |
-
 ---
 
 ## 🎧 Spotify
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/)
 
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -150,9 +90,37 @@
 
 ## stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight"/>
 </p>
+
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight&hide_title=true
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight&hide_title=true&hide_border=true"/>
+</p>
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat)
 
 
 ![](https://komarev.com/ghpvc/?username=renanzinhu&color=blue)
