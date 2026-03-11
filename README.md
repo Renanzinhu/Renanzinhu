@@ -60,22 +60,13 @@
 
 ## 🎧 Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)
-
-
-## 🎧 Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/)
-
+<p align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=21c6eqt7335lzcl34kzty2kdi&count=3"/>
+</p>
 
 <!-- ### Now Playing 🎧 -->
 
 <!--[![Spotify](https://novatorem-git-main-renanzinhus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/> -->
-
-
-## 🎧 Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/)
 
 
 ![](https://komarev.com/ghpvc/?username=renanzinhu&color=blue)
