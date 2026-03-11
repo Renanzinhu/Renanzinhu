@@ -1,8 +1,15 @@
 # ✍️ About Me:
 
-🎓 Education: Systems Analysis and Development (Impacta), with a focus on Full Stack development and knowledge in data analysis, software engineering, and test automation.
+<!-- 🎓 Education: Systems Analysis and Development (Impacta), with a focus on Full Stack development and knowledge in data analysis, software engineering, and test automation. -->
+🎓 Systems Analysis and Development graduate (Impacta)
 
-💼 Experience: Currently working on the BI training team at Mercado Livre, improving skills in data analysis, Business Intelligence, communication, and advanced spreadsheets, while also focusing on learning Google Script and mastering SQL in BigQuery.
+💻 Data Developer interested in Data Analysis, Data Engineering, and Data Science.
+
+<!-- 💼 Experience: Currently working on the BI training team at Mercado Livre, improving skills in data analysis, Business Intelligence, communication, and advanced spreadsheets, while also focusing on learning Google Script and mastering SQL in BigQuery. -->
+
+💼 Experience working with SQL, Python, dashboards, and data analysis, with a strong interest in automation and data-driven solutions.
+
+🧠 Always learning new technologies related to data, software development, and analytics.
 
 🌟 Fun Fact: I have 2 years of experience in video editing.
 
@@ -20,6 +27,35 @@
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-05122A?style=flat&logo=adobepremierepro&labelColor=05122A)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva&labelColor=05122A)&nbsp;
 ![Aseprite](https://img.shields.io/badge/Aseprite-05122A?style=flat&logo=aseprite&labelColor=05122A)&nbsp;
+
+
+## 💻 Tech Stack (test)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## ✍️ About Me
+
+🎓 Systems Analysis and Development graduate (Impacta)
+
+📊 Working in the BI Training Team at Mercado Livre, building dashboards and databases while improving skills in data analysis and automation.
+
+💻 Interested in Data Development, Python, SQL, Google Apps Script, and Web technologies.
+
+🎬 Fun fact: I have experience with video editing and subtitles.
+
 
 <!-- <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -40,6 +76,25 @@
 </a>
 
 
+## 📊 GitHub Stats (test)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+
+
+## 📊 GitHub Stats (test2)
+
+| | |
+|---|---|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight) |
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
  ### 🌐 Social:
 
 <p align="center">
@@ -52,7 +107,52 @@
 </p>
 
 
+## 🎧 Listening on Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY)
+
+
+## 🎧 Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/)
+
 
 <!-- ### Now Playing 🎧 -->
 
 <!--[![Spotify](https://novatorem-git-main-renanzinhus-projects.vercel.app/api/spotify)](https://open.spotify.com/user/21c6eqt7335lzcl34kzty2kdi)<br/> -->
+
+
+
+
+## 📊 GitHub Stats
+
+| | |
+|---|---|
+| ![stats](https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight) | ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight) |
+
+---
+
+## 🎧 Spotify
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Social
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
+
+
+## stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=renanzinhu&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinhu&layout=compact&theme=tokyonight"/>
+</p>
+
+
+![](https://komarev.com/ghpvc/?username=renanzinhu&color=blue)
